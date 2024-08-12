@@ -56,8 +56,3 @@ We welcome contributions from the community to help us further improve
 ClearPath. If you would like to contribute, please fork this repository, make
 your changes, and submit a pull request. We appreciate your support!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use,
-modify, and distribute ClearPath for both commercial and non-commercial
-purposes.
